@@ -4,7 +4,7 @@ Everything related to devops
 
 top 100 linux commands -
 
-ls — List directory contents
+ls —      List directory contents
 cd — Change directory
 pwd — Print working directory
 mkdir — Make directory
