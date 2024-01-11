@@ -1,4 +1,3 @@
-i dont know
 # LinuxForDevops
 Everything related to devops
 
